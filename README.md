@@ -8,7 +8,7 @@
   
   ![GitHub followers](https://img.shields.io/github/followers/AmmarS-Analyst?style=for-the-badge&color=6C63FF&label=Follow%20%40AmmarS-Analyst)
   ![Profile Views](https://komarev.com/ghpvc/?username=AmmarS-Analyst&style=for-the-badge&color=6C63FF&label=Profile+Views)
-  ![GitHub Stars](https://img.shields.io/github/stars/AmmarS-Analyst?style=for-the-badge&color=6C63FF)
+  ![GitHub Stars](https://img.shields.io/badge/dynamic/json?color=6C63FF&label=GitHub%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FAmmarS-Analyst&style=for-the-badge)
 
 </div>
 
@@ -78,7 +78,7 @@
 <div align="center">
 
 ### 🐍 Watch My Contributions Come to Life!
-![Snake Game](https://github.com/AmmarS-Analyst/AmmarS-Analyst/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/AmmarS-Analyst/AmmarS-Analyst/output/github-contribution-grid-snake.svg)
 
 *This snake eats my contributions! It updates daily with my coding activity.*
 
@@ -111,9 +111,7 @@
 ### 🔥 **Open Source Contributions**
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmmarS-Analyst&repo=AmmarS-Analyst&theme=radical)](https://github.com/AmmarS-Analyst/AmmarS-Analyst)
-
-*More projects coming soon as I build in public!*
+*More projects coming soon as I build in public! Watch this space for exciting updates! 🚀*
 
 </div>
 
@@ -161,7 +159,7 @@
 <div align="center">
 
 ### 💬 **Get in Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ammar-siddiqui-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-muhammad-ammar-siddiqui-632490285/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammar@jovintech.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmmarSiddiqui_Tech)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jovintech.com)
