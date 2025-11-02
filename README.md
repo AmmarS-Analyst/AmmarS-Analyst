@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines= Hi+there+👋,+I'm+Ammar+Siddiqui;Data+Analyst;Data+Ops+Engineer;Full+Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋,+I'm+Ammar+Siddiqui;Data+Analyst;Data+Ops+Engineer;Full+Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💫 Turning Data into Decisions 💫</h3>
