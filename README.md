@@ -95,7 +95,7 @@
 
 <div align="center">
 
-### 💼 **Jovin Tech Solutions**
+### 💼 **Tech Solutions**
 | Project | Description | Tech Stack |
 |:---:|:---:|:---:|
 | **WFMS** | Workforce Management System (Full-Stack) | `Python` `Flask` `PostgreSQL` `Vanilla JS` `Power BI` |
