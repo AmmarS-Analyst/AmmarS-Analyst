@@ -99,7 +99,7 @@
 | Project | Description | Tech Stack |
 |:---:|:---:|:---:|
 | **WFMS** | Workforce Management System (Full-Stack) | `Python` `Flask` `PostgreSQL` `Vanilla JS` `Power BI` |
-| **Inbox Assistant** | Ai In-Nox Assistant (Full-Stack) | `React` `Express` `Next.js` `PostgresSQL` `Tailwind` |
+| **Inbox Assistant** | Ai In-Box Assistant (Full-Stack) | `React` `Express` `Next.js` `PostgresSQL` `Tailwind` |
 | **Chat Application** | Java Chat Application OOP | `Java` `Java Swing` `Java Networking` |
 | **ETL/ELT** | Live Crypto ETL/ELT Pipeline | `Python` `PostgreSQL` `Power Bi` |
 
