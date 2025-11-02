@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋,+I'm+Ammar+Siddiqui;Data+Analyst;Data+Ops+Engineer;Full+Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&height=70&lines= Hi+there+👋,+I'm+Ammar+Siddiqui;Data+Analyst;Data+Ops+Engineer;Full+Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">💫 Founder & CEO of Jovin Tech | Turning Data into Decisions 💫</h3>
+<h3 align="center">💫 Turning Data into Decisions 💫</h3>
 
 <div align="center">
   
@@ -21,7 +21,6 @@
 ```yaml
 👨‍💻 Professional Identity:
   name: "Ammar Siddiqui"
-  role: "Founder & CEO @ Jovin Tech"
   location: "Karachi, Pakistan 🏙️"
   focus: "Data-Driven Solutions & SaaS Innovation"
 
@@ -30,11 +29,6 @@
   - "Full-Stack Web Development"
   - "Data Operations & Engineering"
   - "SaaS Product Development"
-
-🚀 Current Mission:
-  - "Building Jovin Tech into a global tech solutions provider"
-  - "Developing cutting-edge CRM & LMS platforms"
-  - "Empowering 100+ businesses with data-driven decisions"
 
 🌱 Learning Journey:
   - "Advanced Data Analytics with Power BI"
@@ -104,9 +98,10 @@
 ### 💼 **Jovin Tech Solutions**
 | Project | Description | Tech Stack |
 |:---:|:---:|:---:|
-| **🤖 Smart CRM** | AI-powered customer relationship management | `Next.js` `FastAPI` `PostgreSQL` `Power BI` |
-| **🎓 Learning LMS** | Enterprise learning management system | `React` `Node.js` `MongoDB` `Tailwind` |
-| **📊 DataViz Pro** | Advanced data visualization dashboard | `Python` `Power BI` `FastAPI` `Docker` |
+| **WFMS** | Workforce Management System (Full-Stack) | `Python` `Flask` `PostgreSQL` `Vanilla JS` `Power BI` |
+| **Inbox Assistant** | Ai In-Nox Assistant (Full-Stack) | `React` `Express` `Next.js` `PostgresSQL` `Tailwind` |
+| **Chat Application** | Java Chat Application OOP | `Java` `Java Swing` `Java Networking` |
+| **ETL/ELT** | Live Crypto ETL/ELT Pipeline | `Python` `PostgreSQL` `Power Bi` |
 
 ### 🔥 **Open Source Contributions**
 <div align="center">
@@ -119,23 +114,12 @@
 
 ---
 
-## 🌟 Jovin Tech Vision
-
-<div align="center">
-
-### 🎯 **Our Mission**
-> *"Empowering businesses with data-driven solutions and cutting-edge technology to drive innovation and growth."*
-
-### 🛠️ **Services & Expertise**
-<table>
-<tr>
-<td width="50%">
 
 #### 💡 **Custom Development**
-- Web & Mobile Applications
+- Web  Applications
 - SaaS Platform Development  
 - API Development & Integration
-- Cloud Solutions & DevOps
+
 
 </td>
 <td width="50%">
@@ -144,7 +128,7 @@
 - Business Intelligence & Analytics
 - Data Visualization & Dashboards
 - Data Engineering & ETL Pipelines
-- Machine Learning Integration
+
 
 </td>
 </tr>
@@ -160,7 +144,7 @@
 
 ### 💬 **Get in Touch**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-muhammad-ammar-siddiqui-632490285/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammar@jovintech.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mammars4556@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmmarSiddiqui_Tech)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jovintech.com)
 
@@ -197,11 +181,6 @@
 ### ⚡ **Coding Philosophy**
 > *"Write code that not only works but tells a story. Build solutions that don't just solve problems but inspire new possibilities."*
 
-### 🎯 **2025 Goals Progress**
-- [ ] **Scale Jovin Tech Globally** → 🚧 In Progress
-- [ ] **Launch SaaS Platforms** → 📅 Planning Phase  
-- [ ] **Help 100+ Clients** → 🌱 Getting Started
-- [ ] **Master Advanced Analytics** → 📚 Learning Daily
 
 </div>
 
