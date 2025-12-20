@@ -148,33 +148,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmmarSiddiqui_Tech)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://jovintech.com)
 
-### 🎵 **When I'm Not Coding**
-<table>
-<tr>
-<td align="center" width="140" height="120">
-  <img src="https://img.icons8.com/color/96/000000/piano.png" width="48" height="48" alt="Piano" />
-  <br>Lo-Fi Beats
-</td>
-<td align="center" width="140" height="120">
-  <img src="https://img.icons8.com/color/96/000000/globe.png" width="48" height="48" alt="Geopolitics" />
-  <br>Geopolitics
-</td>
-<td align="center" width="140" height="120">
-  <img src="https://img.icons8.com/color/96/000000/controller.png" width="48" height="48" alt="Gaming" />
-  <br>Strategic Gaming
-</td>
-<td align="center" width="140" height="120">
-  <img src="https://img.icons8.com/color/96/000000/books.png" width="48" height="48" alt="History" />
-  <br>History Reads
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
-## 🎉 Fun Facts & Philosophy
+
 
 <div align="center">
 
@@ -191,8 +169,6 @@
 ### 🎊 Thank You for Visiting!
 
 **Let's build the future together!** 🚀
-
-*"Data is the new oil, and I'm here to help you refine it."* - Ammar Siddiqui
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:24243e,100:0f0c29&height=120&section=footer)
 
