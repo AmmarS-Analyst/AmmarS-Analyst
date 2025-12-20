@@ -12,36 +12,7 @@
 
 </div>
 
----
 
-## 🎯 About Me
-
-<div align="center">
-
-```yaml
-👨‍💻 Professional Identity:
-  name: "Ammar Siddiqui"
-  location: "Karachi, Pakistan 🏙️"
-  focus: "Data-Driven Solutions & SaaS Innovation"
-
-🎯 Core Expertise:
-  - "Data Analysis & Business Intelligence"
-  - "Full-Stack Web Development"
-  - "Data Operations & Engineering"
-  - "SaaS Product Development"
-
-🌱 Learning Journey:
-  - "Advanced Data Analytics with Power BI"
-  - "High-performance APIs with FastAPI"
-  - "System architecture with C++"
-
-🎨 Beyond Code:
-  - "Creating Lo-Fi piano beats 🎹"
-  - "Exploring history & geopolitics 📚"
-  - "Strategic gaming & creative projects 🎮"
-```
-
-</div>
 
 ---
 
@@ -56,42 +27,18 @@
 
 </div>
 
-### 🌐 **Web Development Galaxy**
-<div align="center">
 
-| **Frontend Magic** | **Backend Power** | **Tools & DevOps** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <br> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <br> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> |
 
-</div>
 
----
 
-## 🎮 Live GitHub Snake Game
 
-<div align="center">
 
-### 🐍 Watch My Contributions Come to Life!
-![Snake Game](https://raw.githubusercontent.com/AmmarS-Analyst/AmmarS-Analyst/output/github-contribution-grid-snake.svg)
 
-*This snake eats my contributions! It updates daily with my coding activity.*
 
-</div>
 
 ---
 
-## 📈 Coding Activity
-
-<div align="center">
-
-### 🎯 Recent Development Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmmarS-Analyst&theme=react-dark&hide_border=true&area=true&custom_title=Ammar's%20Weekly%20Coding%20Activity)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## 🚀  Projects
 
 <div align="center">
 
@@ -110,31 +57,6 @@
 
 </div>
 
-</div>
-
----
-
-
-#### 💡 **Custom Development**
-- Web  Applications
-- SaaS Platform Development  
-- API Development & Integration
-
-
-</td>
-<td width="50%">
-
-#### 📊 **Data Solutions**
-- Business Intelligence & Analytics
-- Data Visualization & Dashboards
-- Data Engineering & ETL Pipelines
-
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
